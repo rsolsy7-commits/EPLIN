@@ -198,11 +198,13 @@ module.exports.run = async ({ api, event }) => {
 
 ## الدعم والتواصل
 
-- **المطور**: 61586897962846  
-  - **فيسبوك**: [اضغط هنا](https://www.facebook.com/profile.php?id=61586897962846)  
+- **المطور**:61562975344669
+- **اسم المطور** روريتا 
+  - **فيسبوك**: [اضغط هنا](
+[https://www.facebook.com/rwryta.rwryta.76477)  
 - **البريد الإلكتروني**: [bgmohammedhridoy@gmail.com](mailto:bgmohammedhridoy@gmail.com)  
-- **Messenger**: [للتواصل](https://m.me/j/AbZ7V4ubIwFomn8x/)  
-- **تيليجرام**: [انضم هنا](https://t.me/nexalo)  
+- **Messenger**: [للتواصل](
+[https://www.facebook.com/rwryta.rwryta.76477)
 - **ديسكورد**: [انضم للسيرفر](https://discord.gg/acZaWzBegW)  
 
 ## المساهمة
